@@ -1,4 +1,4 @@
-Hello, Developer!
+Hello, Lina!
 
 Welcome to your first GitHub workflow project.
 
